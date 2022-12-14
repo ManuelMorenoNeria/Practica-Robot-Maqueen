@@ -14,7 +14,7 @@
 
 ## [4.- Módulo4: Ampliación](md/modulo4.md)
 
-## [5.- Proyecto](proyecto.md)
+## [5.- Proyecto](md/proyecto.md)
 
 ### Autores
 
