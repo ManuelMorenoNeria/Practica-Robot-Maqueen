@@ -24,7 +24,7 @@
 
 ### Referencias
 
-[DFROBOT](referencias/dfrobot.md)
+[DFROBOT](https://wiki.dfrobot.com/DFROBOT_EDUCATION)
 
 ### Licencia
 
