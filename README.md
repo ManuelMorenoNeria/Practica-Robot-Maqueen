@@ -6,13 +6,13 @@
 ![Maqueen](fotos/maqueen.jpg)
 
 
-## [1.- Módulo1: Descripción y montaje](modulo1.md)
+## [1.- Módulo1: Descripción y montaje](md/modulo1.md)
 
-## [2.- Módulo2: Programación básica 1](modulo2.md)
+## [2.- Módulo2: Programación básica 1](md/modulo2.md)
 
-## [3.- Módulo3: Programación básica 2](modulo3.md)
+## [3.- Módulo3: Programación básica 2](md/modulo3.md)
 
-## [4.- Módulo4: Ampliación](modulo4.md)
+## [4.- Módulo4: Ampliación](md/modulo4.md)
 
 ## [5.- Proyecto](proyecto.md)
 
