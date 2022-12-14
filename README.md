@@ -22,7 +22,7 @@
 - Hugo Lucena Gutiérrez
 - Daniel Ruiz Barrenas
 
-### [Referencias](https://wiki.dfrobot.com/DFROBOT_EDUCATION)
+## [Referencias](https://wiki.dfrobot.com/DFROBOT_EDUCATION)
 
 ### Licencia
 
