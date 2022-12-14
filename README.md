@@ -24,7 +24,7 @@
 
 ### Referencias
 
-[DFROBOT](dfrobot.md)
+[DFROBOT](referencias/dfrobot.md)
 
 ### Licencia
 
