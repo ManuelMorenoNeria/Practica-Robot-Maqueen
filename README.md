@@ -26,4 +26,4 @@
 
 ### Licencia
 
-![Licencia](licencia.png)
+![Licencia](fotos/licencia.png)
