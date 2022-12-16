@@ -3,7 +3,7 @@
 ## Enunciado
 
 - El robot da muchas vueltas soltando una melodía, al cambiar la melodía se pausa y camina haciendo giros prolongados hacia la izquierda mientras va formando un corazón con sus LEDs.
-- [Ejemplo1](md/ejemplo1.txt)
+- [Ejemplo1](md/ejemplo1makecode.txt)
 ## [Video Maqueen](https://www.youtube.com/shorts/jI-gzPn0nyo)
 
 # Ejercicio 2
