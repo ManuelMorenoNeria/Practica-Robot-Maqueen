@@ -13,4 +13,4 @@
 ### Enunciado
 
 - Este robot conchesumare avanza recto con las luses ensendidas hasta que de un momento a otro se avecina la tragedia... "TIN". Este robot culero empiesa a avansar de manera amenasante hasia la derecha con solo el LED derecho ensendido. Finalmente se pausa y te mata. "TIN".
-- [Ejemplo1](microbit-Modulo2Ejercicio2 .hex)
+- [Ejemplo2](microbit-Modulo2Ejercicio2.hex)
