@@ -8,5 +8,7 @@
 
 # Ejercicio 2
 
-## Enunciado
+## Ejemplo 1
+
+### Enunciado
 
