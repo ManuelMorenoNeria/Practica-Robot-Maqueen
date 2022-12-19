@@ -6,7 +6,14 @@
 - [Ejemplo1](ejemplo1makecode.txt)
 ## [Video Maqueen](https://www.youtube.com/shorts/jI-gzPn0nyo)
 
-# Ejercicio 2
+# VIDEO1
+
+### Enunciado
+El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 5 segundos. si pulsamos el boton b forma un corazon en el panel de leds y se encienden los RGBs y si pulsamos los dos botones suene una melodia 
+## [VIDEO] (https://youtube.com/shorts/2Im5JwDPNg4)
+
+
+
 
 ## Ejemplo 1
 
