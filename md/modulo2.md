@@ -13,7 +13,7 @@ El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 
 ## [VIDEO](https://youtube.com/shorts/2Im5JwDPNg4)
 
 
-- [Ejemplo2](md/ejemplo2makecode.hex)
+- [Ejemplo2](ejemplo2makecode.hex)
 
 
 ## [EJERCICIOVIDEO2]
