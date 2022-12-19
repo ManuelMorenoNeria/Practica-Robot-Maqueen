@@ -9,15 +9,15 @@
 # VIDEO1
 
 ### Enunciado
-El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 5 segundos. si pulsamos el boton b forma un corazon en el panel de leds y se encienden los RGBs y si pulsamos los dos botones suene una melodia 
+El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 5 segundos. si pulsamos el boton b forma un corazon en el panel de leds y se encienden los RGBs y si pulsamos los dos botones suene una melodia.
 ## [VIDEO](https://youtube.com/shorts/2Im5JwDPNg4)
 
 
 
 
-## Ejemplo 1
+## VIDEO2
 
 ### Enunciado
+El robot emite luces alternando el color de estas.
+## [VIDEO](https://youtube.com/shorts/Vo7jA3MEMOQ?feature=share)
 
-- Este robot conchesumare avanza recto con las luses ensendidas hasta que de un momento a otro se avecina la tragedia... "TIN". Este robot culero empiesa a avansar de manera amenasante hasia la derecha con solo el LED derecho ensendido. Finalmente se pausa y te mata. "TIN".
-- [Ejemplo1](microbit-Modulo2Ejercicio2.hex)
