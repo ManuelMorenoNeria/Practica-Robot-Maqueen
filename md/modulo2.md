@@ -16,8 +16,6 @@ El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 
 - [Ejemplo2](ejemplo2makecode.hex)
 
 
-## [EJERCICIOVIDEO2]
-
 
 
 ## VIDEO2
@@ -25,4 +23,6 @@ El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 
 ### Enunciado
 El robot emite luces alternando el color de estas.
 ## [VIDEO](https://youtube.com/shorts/Vo7jA3MEMOQ?feature=share)
+
+- [Ejemplo3](microbit-maqueen-ejemplon2.hex)
 
