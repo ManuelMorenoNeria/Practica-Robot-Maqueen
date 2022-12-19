@@ -11,6 +11,11 @@
 ### Enunciado
 El robot lo hemos programado para que si pulsamos el boton A de vueltas durante 5 segundos. si pulsamos el boton b forma un corazon en el panel de leds y se encienden los RGBs y si pulsamos los dos botones suene una melodia.
 ## [VIDEO](https://youtube.com/shorts/2Im5JwDPNg4)
+
+
+- [Ejemplo2](ejemplo2makecode.txt)
+
+
 ## [EJERCICIOVIDEO2]
 
 
