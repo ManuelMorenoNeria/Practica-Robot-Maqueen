@@ -6,4 +6,4 @@ Este robot re-hijo de puta es controlado por otro robot aún más hijo de remil 
 # Ejemplo 2
 
 ## [Video](https://www.youtube.com/shorts/SO06RnsOGdo)
-- [Código](microbit-Radio2.hex)
+- [Código](microbit-mandoo.hex)
