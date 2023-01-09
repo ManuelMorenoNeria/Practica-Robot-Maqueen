@@ -4,6 +4,6 @@ Este robot re-hijo de puta es controlado por otro robot aún más hijo de remil 
 - [CódigoRadio1](microbit-Radio1.hex)
 - [CódigoRadio2](microbit-Radio2.hex)
 # Ejemplo 2
-
+ME CAGO EN CRISTO REY
 ## [Video](https://www.youtube.com/shorts/SO06RnsOGdo)
 - [Código](microbit-mandoo.hex)
