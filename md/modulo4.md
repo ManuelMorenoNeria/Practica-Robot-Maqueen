@@ -10,6 +10,6 @@ Colocamos unos comandos específicos para que fueramos capaces de controlarlo co
 - [Código](microbit-mandoo.hex)
 # VIDEO 5
 ## Ejemplo 2: sensor de sonido
-sus
-### [Video]()
+Al escuchar un sonido gira hacia la derecha y enciende la luz roja, cuando deja de escuchar un sonido se para y emite una luz azul, además en su panel se ve el nivel del sonido.
+### [Video](https://www.youtube.com/watch?v=mCdA4bJAGGk&ab_channel=sweetblue.)
 - [CódigoSensor](microbit-sensor.hex)
