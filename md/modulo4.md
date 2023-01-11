@@ -18,3 +18,7 @@ Al escuchar un sonido gira hacia la derecha y enciende la luz roja, cuando deja 
 Este robot tiene unos sensores con los cuales esquiva los objetos que se le ponen por delante girando hacia la derecha.
 ### [Video](https://youtube.com/shorts/f3GtBt11KOA?feature=share)
 - [CódigoSensorUltrasonido](microbit-us.hex)
+# VIDEO 7
+Sigue la linea
+### [Video](https://youtube.com/shorts/QLEFDHij14I?feature=share)
+- [CódigoSensorUltrasonido](microbit-linea.hex)
