@@ -9,7 +9,12 @@ Colocamos unos comandos específicos para que fueramos capaces de controlarlo co
 ### [Video](https://www.youtube.com/shorts/SO06RnsOGdo)
 - [Código](microbit-mandoo.hex)
 # VIDEO 5
-## Ejemplo 2: sensor de sonido
+## Sensor de sonido
 Al escuchar un sonido gira hacia la derecha y enciende la luz roja, cuando deja de escuchar un sonido se para y emite una luz azul, además en su panel se ve el nivel del sonido.
 ### [Video](https://youtube.com/shorts/lFjY8JYX4jg?feature=share)
 - [CódigoSensor](microbit-sensor.hex)
+# VIDEO 6
+## Sensor de ultrasonido
+Este robot tiene unos sensores con los cuales esquiva los objetos que se le ponen por delante girando hacia la derecha.
+### [Video](https://youtube.com/shorts/f3GtBt11KOA?feature=share)
+- [CódigoSensorUltrasonido](microbit-us.hex)
