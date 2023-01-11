@@ -21,4 +21,4 @@ Este robot tiene unos sensores con los cuales esquiva los objetos que se le pone
 # VIDEO 7
 Sigue la linea
 ### [Video](https://youtube.com/shorts/QLEFDHij14I?feature=share)
-- [CódigoSensorUltrasonido](microbit-linea.hex)
+- [CódigoLinea](microbit-linea.hex)
